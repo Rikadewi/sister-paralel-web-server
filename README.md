@@ -7,7 +7,7 @@ Make sure you have following software installed in your system
 * dep 
 
 ### Clone repository and dependency
-* `go get github.com/Rikadewi/sister-paralel-web-server`
+* `git clone https://github.com/Rikadewi/sister-paralel-web-server.git`
 * `dep ensure -v`
 ### Run on local server
 * `go run main.go`
